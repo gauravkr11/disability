@@ -38,7 +38,7 @@ def preprocess_input(data):
     return X_preprocessed
 
 # Streamlit UI
-st.title('Student Performance and Behavior Prediction')
+st.title('Student Performance and Behaviour Prediction')
 
 # User inputs
 st.header('Enter Student Details')
