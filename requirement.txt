@@ -1,0 +1,4 @@
+fast.api
+scikit-learn
+numpy
+streamlit
